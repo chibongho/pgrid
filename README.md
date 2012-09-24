@@ -1,4 +1,3 @@
-===============================================================================
                                WELCOME TO PGRID
 ===============================================================================
          ,__                                                  _,
@@ -23,7 +22,6 @@
                               \  |                     '\'
                                `~'
 
-===============================================================================
 if you're not named Homan, Phil, Chi Bong, Nick, or Steve, you can stop
 reading. This is our lame attempt to keep playing the lame board games that we
 have come to know and love even with Homan all the way in NYC.
